@@ -205,6 +205,10 @@ p {
     background-color: #f0db4f;
 }
 
+.python .skill-progress {
+    background-color: #3776AB;
+}
+
 .mysql .skill-progress {
     background-color: #00758F;
 }
